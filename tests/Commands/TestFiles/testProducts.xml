@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+      <id>1</id>
+      <name>Product_1</name>
+      <description>This is a sample description for product 1</description>
+      <price>250</price>
+      <quantity>18</quantity>
+      <photo_url>http://example.com/images/product_1.jpg</photo_url>
+    </product>
+    <product>
+      <id>2</id>
+      <name>Product_2</name>
+      <description>This is a sample description for product 2</description>
+      <price>102</price>
+      <quantity>3</quantity>
+      <photo_url>http://example.com/images/product_2.jpg</photo_url>
+    </product>
+    <product>
+      <id>3</id>
+      <name>Product_3</name>
+      <description>This is a sample description for product 100000</description>
+      <price>507</price>
+      <quantity>94</quantity>
+      <photo_url>http://example.com/images/product_100000.jpg</photo_url>
+    </product>
+</products>
