@@ -9,7 +9,7 @@ Creating a Laravel artisan command that periodically import an XML file from a s
 - DB user name = adnan
 - DB password = Cda2QmLzLoWX*Kb4
 - Postman collection is given right next env for just import request crud operations
-- To seed data please run "php artisan migrate:refresh --seed" in command line
+- To create tables and seed data please run "php artisan migrate:refresh --seed" in command line
 - To run command please run "php artisan import:products" in command line
 - Use Postman collection to add new requests after you run import:products command for the first time
 - To run unittest for command please run "php artisan test tests/Commands" in command line
