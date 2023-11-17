@@ -4,11 +4,11 @@
 Creating a Laravel artisan command that periodically import an XML file from a specified URL, processes its content, and updates the products of a merchant in table in the database. 
 
 ## Scenarios
-The merchant sends a request to update his items on the database
-This request contains a link to files. This link may contain an Excel, Csv, etc. file
-The command identifies and processes requests to update, add, or delete necessary products for each merchant.
-The command can also write to the history table if an error occurs or update status and import request status messages if success fails. 
-The command also writes a description into the terminal for each processing request.
+- The merchant sends a request to update his items on the database
+- This request contains a link to files. This link may contain an Excel, Csv, etc. file
+- The command identifies and processes requests to update, add, or delete necessary products for each merchant.
+- The command can also write to the history table if an error occurs or update status and import request status messages if success fails. 
+- The command also writes a description into the terminal for each processing request.
 
 ## Before you start
 
